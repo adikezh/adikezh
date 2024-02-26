@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adilzhan
+- 👀 I’m interested in Data base
+- 🌱 I’m currently learning C#
+- 📫 How to reach me adilzhantll@gmail.com
