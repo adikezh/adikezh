@@ -1,6 +1,6 @@
 ### Adilzhan Tleukhan
 
-Technical Director, AIDIA TECH · Information security, GRC & AI security · Astana, Kazakhstan
+Technical Director, AIDIA TECH · Solution architecture & information security · Astana, Kazakhstan
 
 I build security and compliance products for companies that adopt AI — and have to answer for it under Kazakhstan law: an LLM security gateway (prompt-injection and data-leak detection), an information-security compliance platform, and a data-protection proxy in front of LLM APIs. Python, Go, TypeScript, PostgreSQL, Docker.
 
